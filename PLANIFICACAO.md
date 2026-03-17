@@ -6,8 +6,8 @@
 
 > **Projeto:** Iron Cave App  
 > **Versão do plano:** v1.0  
-> **Data de criação:** 07 de março de 2026  
-> **Horizonte:** 3 semanas
+> **Data da última macro:** 07 de março de 2026  
+> **Horizonte:** 3 semanas desde a última macro
 > **Objetivo:** fechar frontend + fechar backend + preparar go-live
 
 ---
