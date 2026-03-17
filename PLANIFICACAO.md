@@ -41,7 +41,7 @@ Objetivo: finalizar o núcleo funcional da app (treino, nutrição, agenda, prog
 
 Objetivo: finalizar fluxos de chat, notificações, admin, search/help e capacidades transversais para operação diária.
 
-### Macro 4 — Integração Final e Release (5 semanas)
+### Macro 4 — Integração Final e Release (5 dias)
 
 Objetivo: eliminar mocks remanescentes, fechar E2E, hardening final, correções críticas e go-live.
 
